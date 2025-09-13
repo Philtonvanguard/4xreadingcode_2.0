@@ -1,5 +1,5 @@
 # 4xreadingcode_2.0
-This project automates the process of turning any PDF or EPUB book into a summarized audiobook and video preview — making it possible to "read" books up to 4x faster through audio and subtitles.
+
 📚 PDF/EPUB Summarizer to 4x Speed Audiobook + Video
 
 This project automates the process of turning any PDF or EPUB book into a summarized audiobook and video preview — making it possible to "read" books up to 4x faster through audio and subtitles.
